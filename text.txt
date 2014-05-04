@@ -9,4 +9,5 @@ Tri
 Edno
 test
 Dve
+Some text from Vim editor
 Tri
