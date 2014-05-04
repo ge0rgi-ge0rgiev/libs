@@ -9,6 +9,4 @@ Tri
 Edno
 test
 Dve
-This is another test row
-Some text from Vim editor
-Tri
+
