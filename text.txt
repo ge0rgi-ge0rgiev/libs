@@ -9,4 +9,5 @@ Tri
 Edno
 test
 Dve
+some new line
 Mi nz vehe kakvo da kaja
