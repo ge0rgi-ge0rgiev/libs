@@ -7,3 +7,4 @@ echo 'and another row';
 echo 'фром сите';
 echo 'медала';
 echo 'mi tuka ot linux-a';
+echo 'Add some functionality for release v1.1';
